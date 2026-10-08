@@ -5,9 +5,7 @@ regional lymph-node phenotyping and prognostic stratification in colorectal
 cancer. It combines lymph-node localisation, multi-task phenotype prediction,
 prototype-based morphological analysis, and patient-level nodal profiling.
 
-## SoftMT-MoE model architecture
-
-![SoftMT-MoE model architecture and prototype-based morphological analysis](assets/figures/pipeline.png)
+## SoftMT-MoE model
 
 SoftMT-MoE routes patch representations to general, metastatic, and negative
 expert branches for multi-task prediction. Separate prototype-learning routes
